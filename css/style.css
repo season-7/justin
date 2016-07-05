@@ -62,3 +62,11 @@
     .blackc {
         display: inline-block;
     }
+    .rightkorir {
+        float: right;
+        width: 50%;
+    }
+    .leftkorir {
+        float: left;
+        width: 50%;
+    }
