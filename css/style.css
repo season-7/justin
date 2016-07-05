@@ -144,3 +144,11 @@
         display: inline-block;
         width: 100%;
     }
+    .simple {
+        text-align: center;
+        color: floralwhite;
+        background-color: #352D2F;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding: 1%;
+    }
