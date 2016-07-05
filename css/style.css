@@ -1,8 +1,64 @@
-.right {
-    float: right;
-    width: 50%;
-}
-.left {
-    float: left;
-    width: 50%;
-}
+    .right {
+        float: right;
+        width: 50%;
+        height: 30%;
+        background-color: red;
+        color: #fff;
+    }
+    .left {
+        float: left;
+        width: 50%;
+        height: 30%;
+    }
+    .button {
+        background-color: red;
+        float: center;
+        border-radius: 0px;
+        font-size: 20px;
+        text-decoration: none;
+        color: #fff;
+    }
+    .two {
+        margin-top: 7px;
+        height:
+    }
+    .three {
+        background-color: azure;
+    }
+    .one,
+    .three {
+        margin-top: 7px;
+    }
+    .one,
+    .two,
+    .three {
+        text-align: justify;
+        display: grid;
+        height: 10%;
+    }
+    .blacka {
+        background-color: dimgray;
+        float: left;
+        width: 33%;
+    }
+    .blackb {
+        float: left;
+        background-color: black;
+        width: 33%;
+    }
+    .blackc {
+        float: left;
+        background-color: dimgray;
+        width: 33%;
+    }
+    .blacka,
+    .blackb,
+    .blackc {
+        height: 20%;
+        margin: 0;
+        padding: 0;
+    }
+    .blacka,
+    .blackc {
+        display: inline-block;
+    }
