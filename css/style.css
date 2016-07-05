@@ -152,3 +152,6 @@
         margin-bottom: 1%;
         padding: 1%;
     }
+    .simple h5 {
+        border-bottom: 1px solid #fff;
+    }
