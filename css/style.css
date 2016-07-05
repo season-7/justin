@@ -73,7 +73,6 @@
     }
     body {
         width: 100%;
-        background-color: black
     }
     header {
         display: block;
@@ -101,12 +100,12 @@
         padding-right: 200px;
         float: left;
     }
-    section {
+    .text {
         background-color: black;
         font-family: serif;
         font-size: 30px;
     }
-    p {
+    header p {
         color: white;
         font-size: 19px;
         text-align: center;
