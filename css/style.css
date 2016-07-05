@@ -128,3 +128,19 @@
         display: inline-block;
         margin: 50px 100px 22px 200px;
     }
+    .menu1 {
+        float: left;
+        width: 30%;
+    }
+    .menu2 {
+        float: left;
+        width: 30%;
+    }
+    .menu3 {
+        float: left;
+        width: 30%
+    }
+    .menu {
+        display: inline-block;
+        width: 100%;
+    }
