@@ -64,10 +64,9 @@
         height: 10%;
     }
     .leftkorir {
-        float: left;
+        float: right;
         width: 45%;
         height: 10%;
-        margin-top: 0px;
     }
     body {
         width: 100%;
