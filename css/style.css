@@ -107,3 +107,25 @@
         font-size: 19px;
         text-align: center;
     }
+    .a {
+        float: left;
+    }
+    .b {
+        float: left;
+    }
+    .c {
+        float: left;
+    }
+    .a,
+    .b,
+    .c {
+        display: inline-block;
+    }
+    .align {
+        display: inline-block;
+        margin 300px;
+    }
+    /*.align {
+        padding: 40px 100px 60px 300p;
+        display: inline-block;
+    }*/
