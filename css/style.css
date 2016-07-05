@@ -109,12 +109,15 @@
     }
     .a {
         float: left;
+        padding: 50px;
     }
     .b {
         float: left;
+        padding: 50px;
     }
     .c {
         float: left;
+        padding: 45px;
     }
     .a,
     .b,
@@ -123,7 +126,7 @@
     }
     .align {
         display: inline-block;
-        margin 300px;
+        margin: 50px 100px 22px 200px;
     }
     /*.align {
         padding: 40px 100px 60px 300p;
