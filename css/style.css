@@ -2,7 +2,7 @@
         float: right;
         width: 50%;
         height: 30%;
-        background-color: red;
+        background-color: #F63C3C;
         color: #fff;
     }
     .left {
@@ -11,7 +11,7 @@
         height: 30%;
     }
     .button {
-        background-color: red;
+        background-color: #F63C3C;
         float: center;
         border-radius: 0px;
         font-size: 20px;
@@ -23,7 +23,7 @@
         height:
     }
     .three {
-        background-color: azure;
+        background-color: aliceblue;
     }
     .one,
     .three {
@@ -37,18 +37,19 @@
         height: 10%;
     }
     .blacka {
-        background-color: dimgray;
+        background-color: #726D6E;
         float: left;
         width: 33%;
     }
     .blackb {
         float: left;
-        background-color: black;
+        background-color: #605A5C;
+        ;
         width: 33%;
     }
     .blackc {
         float: left;
-        background-color: dimgray;
+        background-color: #726D6E;
         width: 33%;
     }
     .blacka,
