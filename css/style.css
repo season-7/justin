@@ -402,32 +402,40 @@ header nav {
 .a1aicon {
     width: 30%;
     float: left;
+    height: 100px;
 }
 .a1aexp {
     width: 70%;
     float: right;
+    height: 100px;
 }
 .a1bicon {
     width: 30%;
     float: left;
+    height: 100px;
 }
 .a1bexp {
     width: 70%;
     float: right;
+    height: 100px;
 }
 .a2aicon {
     width: 30%;
     float: left;
+    height: 100px;
 }
 .a2aexp {
     width: 70%;
     float: right;
+    height: 100px;
 }
 .a2bicon {
     width: 30%;
     float: left;
+    height: 100px;
 }
 .a2bexp {
     width: 70%;
     float: right;
+    height: 100px;
 }
