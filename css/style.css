@@ -364,3 +364,34 @@ header nav {
     float: left;
     text-align: center;
 }
+.last {
+    margin-top: 1%;
+}
+.kushoto {
+    width: 50%;
+    float: left;
+}
+.kulia {
+    width: 50%;
+    float: right;
+}
+.kulia1 {
+    width: 50%;
+    float: left;
+}
+.kulia2 {
+    width: 50%;
+    float: right;
+}
+.kulia1a {
+    height: 100px;
+}
+.kulia1b {
+    height: 100px;
+}
+.kulia2a {
+    height: 100px;
+}
+.kulia2b {
+    height: 100px;
+}
