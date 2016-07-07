@@ -414,6 +414,11 @@ header nav {
     float: right;
     height: 100px;
 }
+.a1aexp h3,
+.a1aexp h5 {
+    padding-top: 10%;
+    color: #fff;
+}
 .a1bicon {
     width: 30%;
     float: left;
@@ -428,6 +433,11 @@ header nav {
     width: 70%;
     float: right;
     height: 100px;
+}
+.a1bexp h3,
+.a1bexp h5 {
+    padding-top: 10%;
+    color: #fff;
 }
 .a2aicon {
     width: 30%;
@@ -444,6 +454,11 @@ header nav {
     float: right;
     height: 100px;
 }
+.a2aexp h3,
+.a2aexp h5 {
+    padding-top: 10%;
+    color: #fff;
+}
 .a2bicon {
     width: 30%;
     float: left;
@@ -458,4 +473,9 @@ header nav {
     width: 70%;
     float: right;
     height: 100px;
+}
+.a2bexp h3,
+.a2bexp h5 {
+    padding-top: 10%;
+    color: #fff;
 }
