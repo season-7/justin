@@ -318,6 +318,13 @@ header nav {
     border-bottom: 3px solid #333;
     text-align: center;
 }
+.impressed {
+    background-color: #352D2F;
+    height: 100px;
+    text-align: center;
+    color: #fff;
+    padding-top: 4%;
+}
 .show {
     height: 50px;
 }
