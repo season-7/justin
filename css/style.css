@@ -257,13 +257,13 @@ header nav {
 .lor1 {
     width: 15%;
     float: left;
-    height: 900px;
+    height: 550px;
 }
 .lorem-1 {
     width: 20%;
     margin-right: 5%;
     float: left;
-    height: 900px
+    height: 550px
 }
 .empty-1 {
     height: 100px;
@@ -273,7 +273,7 @@ header nav {
     width: 20%;
     margin-right: 5%;
     float: left;
-    height: 900px;
+    height: 550px;
 }
 .empty-2 {
     height: 100px;
@@ -282,7 +282,7 @@ header nav {
 .lorem-3 {
     width: 20%;
     float: left;
-    height: 900px;
+    height: 550px;
 }
 .empty-3 {
     height: 100px;
@@ -291,7 +291,7 @@ header nav {
 .lor2 {
     width: 15%;
     float: left;
-    height: 900px;
+    height: 550px;
 }
 .float-all {
     display: inline-block;
@@ -311,4 +311,13 @@ header nav {
 .explore-me {
     background-color: #352D2F;
     height: 50px;
+}
+.more {
+    width: 25%;
+    margin-left: 40%;
+    border-bottom: 2px solid #fff;
+}
+.show {
+    height: 50px;
+    background-color: #352D2F;
 }
