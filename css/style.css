@@ -328,27 +328,38 @@ header nav {
 .show {
     height: 50px;
 }
+.uni {
+    background-color: #352D2F;
+    height: 500px;
+}
 .fa {
-    width: 10%;
+    width: 14%;
     float: left;
+    margin-left: 8%;
+    text-align: center;
 }
 .fe {
-    width: 10%;
+    width: 14%;
     float: left;
+    text-align: center;
 }
 .fi {
-    width: 10%;
+    width: 14%;
     float: left;
+    text-align: center;
 }
 .fo {
-    width: 10%;
+    width: 14%;
     float: left;
+    text-align: center;
 }
 .fu {
-    width: 10%;
+    width: 14%;
     float: left;
+    text-align: center;
 }
 .fp {
-    width: 10%;
+    width: 14%;
     float: left;
+    text-align: center;
 }
