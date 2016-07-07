@@ -315,9 +315,33 @@ header nav {
 .more {
     width: 25%;
     margin-left: 40%;
-    border-bottom: 2px solid #fff;
+    border-bottom: 3px solid #333;
+    text-align: center;
 }
 .show {
     height: 50px;
-    background-color: #352D2F;
+}
+.fa {
+    width: 10%;
+    float: left;
+}
+.fe {
+    width: 10%;
+    float: left;
+}
+.fi {
+    width: 10%;
+    float: left;
+}
+.fo {
+    width: 10%;
+    float: left;
+}
+.fu {
+    width: 10%;
+    float: left;
+}
+.fp {
+    width: 10%;
+    float: left;
 }
