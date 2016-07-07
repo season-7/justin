@@ -17,8 +17,9 @@
     width: 50%;
     height: 900px;
 }
-.left p {
-    padding-left: 200px;
+.left p,
+.left h1 {
+    padding-left: 30%;
 }
 .mitch {
     display: inline-block;
@@ -39,6 +40,7 @@
 .three {
     background-color: blue;
     padding: 20px;
+    height: 95px;
 }
 .one {
     background-color: aqua;
@@ -92,8 +94,12 @@
 }
 .leftkorir {
     float: right;
-    width: 45%;
-    height: 10%;
+    width: 50%;
+    height: 300px;
+}
+.leftkorir p,
+.leftkorir h1 {
+    padding-left: 32%;
 }
 body {
     width: 100%;
@@ -215,15 +221,37 @@ header nav {
     font-family: serif;
     font-size: 30px;
 }
-button {
+.btn {
     font-size: 15px;
     color: black;
     text-align: center;
     margin-left: 43%;
-    border-radius: 1px;
+    border-radius: 2px;
     background-color: white;
     padding: 6px;
     margin-top: 6px;
+}
+.press1 {
+    font-size: 18px;
+    color: black;
+    border-radius: 2px;
+    background-color: #F63C3C;
+    margin-left: 32%;
+    margin-top: 2%;
+}
+.press0 {
+    font-size: 18px;
+    color: black;
+    border-radius: 2px;
+    background-color: #F63C3C;
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
+.press2 {
+    font-size: 18px;
+    color: black;
+    border-radius: 2px;
+    margin-top: 4%;
 }
 .journal {}
 .lor1 {
