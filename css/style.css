@@ -247,7 +247,7 @@ button {
     float: left;
     height: 900px;
 }
-empty-2 {
+.empty-2 {
     height: 100px;
     background-color: #352D2F;
 }
@@ -256,7 +256,7 @@ empty-2 {
     float: left;
     height: 900px;
 }
-empty-3 {
+.empty-3 {
     height: 100px;
     background-color: #352D2F;
 }
