@@ -151,9 +151,8 @@ header p {
     text-align: center;
     color: floralwhite;
     background-color: #352D2F;
-    margin-top: 1%;
-    margin-bottom: 1%;
-    height: 100px
+    padding: 3%;
+    height: 150px;
 }
 .empty1 {
     width: 40%;
@@ -163,7 +162,9 @@ header p {
     width: 20%;
     border-bottom: 2px solid #fff;
     float: left;
-    margin-left: 39%
+    margin-left: 39%;
+    padding-top: 3%;
+    font-size: 21px;
 }
 .empty2 {
     width: 40%;
@@ -224,11 +225,45 @@ button {
     padding: 6px;
     margin-top: 6px;
 }
-.journal {
-    background-color: white;
-    text-align: center;
-    width: 100%;
-    height: 250px;
+.journal {}
+.lor1 {
+    width: 15%;
+    float: left;
+    height: 900px;
+}
+.lorem-1 {
+    width: 20%;
+    margin-right: 5%;
+    float: left;
+    height: 900px
+}
+.empty-1 {
+    height: 100px;
+    background-color: #352D2F;
+}
+.lorem-2 {
+    width: 20%;
+    margin-right: 5%;
+    float: left;
+    height: 900px;
+}
+empty-2 {
+    height: 100px;
+    background-color: #352D2F;
+}
+.lorem-3 {
+    width: 20%;
+    float: left;
+    height: 900px;
+}
+empty-3 {
+    height: 100px;
+    background-color: #352D2F;
+}
+.lor2 {
+    width: 15%;
+    float: left;
+    height: 900px;
 }
 .float-all {
     display: inline-block;
