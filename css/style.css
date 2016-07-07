@@ -399,3 +399,35 @@ header nav {
     height: 100px;
     background-color: #726D6E;
 }
+.a1aicon {
+    width: 30%;
+    float: left;
+}
+.a1aexp {
+    width: 70%;
+    float: right;
+}
+.a1bicon {
+    width: 30%;
+    float: left;
+}
+.a1bexp {
+    width: 70%;
+    float: right;
+}
+.a2aicon {
+    width: 30%;
+    float: left;
+}
+.a2aexp {
+    width: 70%;
+    float: right;
+}
+.a2bicon {
+    width: 30%;
+    float: left;
+}
+.a2bexp {
+    width: 70%;
+    float: right;
+}
