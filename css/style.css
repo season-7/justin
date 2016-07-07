@@ -49,6 +49,7 @@
     height: 200px;
     overflow: hidden;
     background-color: #F63C3C;
+    padding: 8px;
 }
 .six {
     background-color: #F63C3C;
@@ -81,6 +82,9 @@
     height: 150%;
     padding: 0;
 }
+.korir {
+    margin-top: -160px
+}
 .rightkorir {
     float: right;
     width: 50%;
@@ -109,16 +113,22 @@ header p {
 }
 .c {
     float: left;
-    padding: 45px;
+    padding: 50px;
 }
 .a,
 .b,
 .c {
     display: inline-block;
+    margin-top: -10%;
 }
 .align {
     display: inline-block;
-    margin: 50px 100px 22px 200px;
+    margin: 50px 100px 20px 160px;
+    text-align: center;
+}
+.align h4 {
+    color: #F63C3C;
+    font-size: 30px;
 }
 .menu1 {
     float: left;
@@ -135,6 +145,7 @@ header p {
 .menu {
     display: inline-block;
     width: 100%;
+    padding: 6%;
 }
 .simple {
     text-align: center;
@@ -142,10 +153,21 @@ header p {
     background-color: #352D2F;
     margin-top: 1%;
     margin-bottom: 1%;
-    padding: 1%;
+    height: 100px
 }
-.simple h5 {
-    border-bottom: 1px solid #fff;
+.empty1 {
+    width: 40%;
+    float: left;
+}
+.touch {
+    width: 20%;
+    border-bottom: 2px solid #fff;
+    float: left;
+    margin-left: 39%
+}
+.empty2 {
+    width: 40%;
+    float: left;
 }
 body {
     width: 100%;
@@ -154,7 +176,8 @@ header {
     display: inline-block;
     width: 100%;
     background-color: #352D2F;
-    height: 250px;
+    height: 25px;
+    margin-bottom:
 }
 header nav {
     background-color: #352D2F;
@@ -195,9 +218,11 @@ button {
     font-size: 15px;
     color: black;
     text-align: center;
-    margin-left: 650px;
-    border-radius: 9px;
+    margin-left: 43%;
+    border-radius: 1px;
     background-color: white;
+    padding: 6px;
+    margin-top: 6px;
 }
 .journal {
     background-color: white;
@@ -219,4 +244,8 @@ button {
 .university {
     word-spacing: 200px;
     background-color: #352D2F;
+}
+.explore-me {
+    background-color: #352D2F;
+    height: 50px;
 }
