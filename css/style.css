@@ -38,12 +38,12 @@
     overflow: hidden;
 }
 .three {
-    background-color: blue;
+    background-color: cornsilk;
     padding: 20px;
     height: 95px;
 }
 .one {
-    background-color: aqua;
+    background-color: #FFF;
     height: 250px;
     padding: 50px;
 }
@@ -263,7 +263,8 @@ header nav {
     width: 20%;
     margin-right: 5%;
     float: left;
-    height: 550px
+    height: 550px;
+    text-align: center;
 }
 .empty-1 {
     height: 100px;
@@ -274,6 +275,7 @@ header nav {
     margin-right: 5%;
     float: left;
     height: 550px;
+    text-align: center;
 }
 .empty-2 {
     height: 100px;
@@ -283,6 +285,7 @@ header nav {
     width: 20%;
     float: left;
     height: 550px;
+    text-align: center;
 }
 .empty-3 {
     height: 100px;
@@ -365,11 +368,16 @@ header nav {
     text-align: center;
 }
 .last {
-    margin-top: 1%;
+    margin-top: 0.5%;
 }
 .kushoto {
     width: 50%;
     float: left;
+}
+.kushoto h1,
+.kushoto p,
+.kushoto input {
+    margin-left: 33%;
 }
 .kulia {
     width: 50%;
